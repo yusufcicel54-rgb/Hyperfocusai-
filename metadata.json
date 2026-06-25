@@ -1,6 +1,0 @@
-{
-  "name": "Hyperfocus AI",
-  "description": "API anahtarı, gelişmiş model seçimi, esnek sistem promptları ve özel kurallarla şekillenen, yüksek oranda kontrollü ve özelleştirilebilir yapay zeka asistanı.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
